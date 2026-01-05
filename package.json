@@ -1,0 +1,29 @@
+{
+  "name": "myaipet",
+  "version": "1.0.0",
+  "description": "Welcome to the **Virtual AI Pet Service** — a simple, fun, and interactive website where you can adopt and interact with your very own AI-powered virtual pet! This project is designed as a static site and can be easily hosted on GitHub Pages or any static hosting provider.",
+  "main": "index.js",
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyadhuddin/myaipet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/riyadhuddin/myaipet/issues"
+  },
+  "homepage": "https://github.com/riyadhuddin/myaipet#readme",
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
